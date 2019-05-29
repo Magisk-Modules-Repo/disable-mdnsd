@@ -1,0 +1,6 @@
+id=disable-mdnsd
+name=Disable multicast DNS daemon
+version=v1.0
+versionCode=1
+author=ant9000
+description=Systemlessly disable multicast DNS daemon
