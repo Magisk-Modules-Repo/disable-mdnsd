@@ -7,3 +7,8 @@
 MODDIR=${0%/*}
 
 # This script will be executed in late_start service mode
+
+(
+  sleep 60
+  killall mdnsd
+) &
